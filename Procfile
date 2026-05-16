@@ -1,0 +1,1 @@
+web: gunicorn solar_erp_backend.wsgi
